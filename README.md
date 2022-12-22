@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/bjyothiswaroop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bjyothiswaroop1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/swaroop-vitb-73056a10a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopvitb" height="30" width="40" /></a>
-<a href="https://instagram.com/swaroop_vitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_vitb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_swaroopchinnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_vitb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmFUoPicoxuJAuR2NfNdQGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop vitb" height="30" width="40" /></a>
 </p>
 
