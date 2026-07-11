@@ -1277,3 +1277,60 @@ a {
     gap: 0.5rem;
   }
 }
+
+/* ---------- 19. Mini page — single-screen link-in-bio layout ---------- */
+.mini {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.4rem;
+  text-align: center;
+  padding: clamp(1.5rem, 5vw, 3rem);
+  animation: mini-in 0.7s ease both;
+}
+
+.mini .wordmark {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.mini .eyebrow {
+  margin-bottom: 0;
+}
+
+.mini .eyebrow::before {
+  display: none;
+}
+
+.mini-title {
+  font-size: clamp(2.1rem, 7vw, 3.6rem);
+  font-weight: 700;
+  max-width: 17ch;
+}
+
+.mini-copy {
+  max-width: 44ch;
+  color: var(--muted);
+  font-size: clamp(1rem, 2.5vw, 1.15rem);
+}
+
+.mini .btn {
+  margin-top: 0.4rem;
+  padding: 1.05rem 2.1rem;
+  font-size: 1.05rem;
+}
+
+@keyframes mini-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
